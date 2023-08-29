@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment=":tada: Commit inicial" />
+    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment=":tada: Commit inicial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -33,13 +38,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jeanc/OneDrive/Documents/Cursos/Udemy/Java Completo - POO + Projetos/projects",
+    "last_opened_file_path": "C:/Users/jeanc/OneDrive/Documents/Cursos/Udemy/Java Completo - POO + Projetos/aulas",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,6 +61,7 @@
       <workItem from="1692830298741" duration="646000" />
       <workItem from="1692830979530" duration="117000" />
       <workItem from="1692831110229" duration="366000" />
+      <workItem from="1692919027931" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: Commit inicial">
       <option name="closed" value="true" />
