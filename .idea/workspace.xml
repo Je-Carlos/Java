@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment=":tada: Commit inicial">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jeanc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +46,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment="" />
@@ -62,6 +63,8 @@
       <workItem from="1692830979530" duration="117000" />
       <workItem from="1692831110229" duration="366000" />
       <workItem from="1692919027931" duration="784000" />
+      <workItem from="1693337227886" duration="129000" />
+      <workItem from="1693337368819" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: Commit inicial">
       <option name="closed" value="true" />
