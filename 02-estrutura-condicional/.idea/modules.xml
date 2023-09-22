@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/02-estrutura-condicional.iml" filepath="$PROJECT_DIR$/.idea/02-estrutura-condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/_01. condicional if else/_01. condicional if else.iml" filepath="$PROJECT_DIR$/_01. condicional if else/_01. condicional if else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02. funcoes/_02. funcoes.iml" filepath="$PROJECT_DIR$/_02. funcoes/_02. funcoes.iml" />
     </modules>
   </component>
 </project>
