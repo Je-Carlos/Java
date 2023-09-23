@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment=":tada: Commit inicial">
+    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment="realizando teste sem POO">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -113,5 +113,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":tada: Commit inicial" />
     <option name="LAST_COMMIT_MESSAGE" value=":tada: Commit inicial" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
