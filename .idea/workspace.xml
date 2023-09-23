@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment=":tada: Commit inicial">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9dde8a6f-a3a4-4074-96dd-8270a94b7928" name="Changes" comment="atualizando gitignore">
+      <change afterPath="$PROJECT_DIR$/_03-intrudocao-poo/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -22,8 +33,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Je-Carlos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="04dbfd10-2c49-4663-be96-400fe333d41d" />
+        <option name="url" value="https://github.com/Je-Carlos/Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -47,10 +75,29 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.spelling&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\aulas\_03-intrudocao-poo\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="aulas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\jeanc\OneDrive\Documents\Cursos\Udemy\Java Completo - POO + Projetos\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +114,13 @@
       <workItem from="1693337227886" duration="129000" />
       <workItem from="1693337368819" duration="72000" />
       <workItem from="1695497776247" duration="171000" />
-      <workItem from="1695497964099" duration="336000" />
+      <workItem from="1695497964099" duration="2035000" />
+      <workItem from="1695500031803" duration="180000" />
+      <workItem from="1695500224092" duration="824000" />
+      <workItem from="1695501067400" duration="194000" />
+      <workItem from="1695501273559" duration="485000" />
+      <workItem from="1695501774223" duration="205000" />
+      <workItem from="1695502099903" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: Commit inicial">
       <option name="closed" value="true" />
@@ -93,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692831292986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicionando pasta de introdução à POO">
+      <option name="closed" value="true" />
+      <created>1695498384288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695498384288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="atualizando gitignore">
+      <option name="closed" value="true" />
+      <created>1695499689862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695499689862</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +181,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":tada: Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value=":tada: Commit inicial" />
+    <MESSAGE value="adicionando pasta de introdução à POO" />
+    <MESSAGE value="atualizando gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando gitignore" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
