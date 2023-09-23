@@ -2,13 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/01-estrutura-sequencial/01-saida-de-dados-em-java/out" />
-      <excludeFolder url="file://$MODULE_DIR$/01-estrutura-sequencial/02-processamento-de-dados-java-casting/out" />
-      <excludeFolder url="file://$MODULE_DIR$/01-estrutura-sequencial/_03-entrada-de-dados/out" />
-      <excludeFolder url="file://$MODULE_DIR$/01-estrutura-sequencial/_04-funcoes-matematicas-java/out" />
-      <excludeFolder url="file://$MODULE_DIR$/01-estrutura-sequencial/exercicios1/out" />
-    </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
