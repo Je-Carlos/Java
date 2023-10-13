@@ -1,6 +1,4 @@
 import util.Calculator;
-
-import java.security.PublicKey;
 import java.util.Locale;
 import java.util.Scanner;
 
