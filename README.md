@@ -11,7 +11,7 @@ Bem-vindo ao repositório do meu projeto de estudos de Java! Aqui você encontra
 ## 📌 Tópicos de Estudo 
 1. [Estrutura Sequencial](https://github.com/Je-Carlos/Java/tree/master/01-estrutura-sequencial/)
 2. [Estrutura Condicional](https://github.com/Je-Carlos/Java/tree/master/02-estrutura-condicional)
-3. [Estrutura Sequencial](https://github.com/Je-Carlos/Java/tree/master/_03-intrudocao-poo)
+3. [Introdução a POO](https://github.com/Je-Carlos/Java/tree/master/_03-intrudocao-poo)
 
 ## 📌 Como Contribuir
 
