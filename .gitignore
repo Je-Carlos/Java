@@ -24,6 +24,8 @@ hs_err_pid*
 replay_pid*
 .idea/
 /.idea
+.pdf/
+/.pdf
 .idea
 .idea/aulas.iml
 .idea/workspace.xml
