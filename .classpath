@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="_03-introducao-poo/_01. resolvendo-primeiro-problema/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/_02. resolvendo-segundo-problema/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/_03. membros-estaticos/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/Exercicios/exercicio2/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/Exercicios/Exercicio3/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/Exercicios/Exercicio4/src"/>
+	<classpathentry kind="src" path="_03-introducao-poo/Exercicios/src"/>
+	<classpathentry kind="src" path="_04-construtores-this-sobrecarga-escapsulamento/src"/>
+	<classpathentry kind="src" path="01-estrutura-sequencial/_03-entrada-de-dados/src"/>
+	<classpathentry kind="src" path="01-estrutura-sequencial/_04-funcoes-matematicas-java/src"/>
+	<classpathentry kind="src" path="01-estrutura-sequencial/01-saida-de-dados-em-java/src"/>
+	<classpathentry kind="src" path="01-estrutura-sequencial/02-processamento-de-dados-java-casting/src"/>
+	<classpathentry kind="src" path="01-estrutura-sequencial/exercicios1/src"/>
+	<classpathentry kind="src" path="02-estrutura-condicional/_01. condicional if else/src"/>
+	<classpathentry kind="src" path="02-estrutura-condicional/_02. funcoes/src"/>
+	<classpathentry kind="output" path="_04-construtores-this-sobrecarga-escapsulamento/out/production/_04-construtores-this-sobrecarga-escapsulamento"/>
+</classpath>
