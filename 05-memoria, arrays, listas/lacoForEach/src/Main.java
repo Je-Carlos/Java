@@ -6,7 +6,7 @@ public class Main {
             System.out.println(vect[i]);
         }
         System.out.println("----------------");
-//        Para cada objeto ´obj´ contido em vect, faça: 
+//        Para cada objeto ´obj´ contido em vect, faça:
         for(String obj : vect){
             System.out.println(obj);
         }
